@@ -1,2 +1,5 @@
 # hello-world
-Just using this shit
+
+Hi humans,
+
+bim bim bli bla bum bum
